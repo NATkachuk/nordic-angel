@@ -1,0 +1,142 @@
+body { 
+    background-color:  #0b1715;
+    max-width:1440px;
+}
+.nav {
+    position: absolute;
+    width: 451px;
+    height: 64px;
+    list-style-type:none;
+    background: #413f3f;
+}
+.nav1 {
+    position: absolute;
+    width: 74px;
+    height: 18px;
+    left: 48px;
+    top: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.nav2 {
+    position: absolute;
+    width: 39px;
+    height: 18px;
+    left: 171px; 
+    top: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.nav3 {
+    position: absolute;
+    width: 51px;
+    height: 18px;
+    left: 258px;
+    top: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.nav4 {
+    position: absolute;
+    width: 36px;
+    height: 18px;
+    top: 22px;
+    left: 358px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.logo {
+    position: absolute;
+    top: 36px;
+    left: 581px;
+}
+.nav-link {
+    position: absolute;
+    width: 44px; ;
+    height: 18px;
+    top: 48px;
+    left: 1280px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #FFFFFF;    
+}
+.section1-title {
+    position: absolute;
+    width: 1274px;
+    height: 263px;
+    left: 67px;
+    top: 43px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 160px;
+    color: #FFFFFF;
+    z-index: 1;
+}
+.section1-text {
+    position: absolute;
+    width: 400px;
+    height: 54px;
+    left: 63px;
+    top: 733px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+.btn-setion1 {
+    position: absolute;
+    top: 813px;
+    left: 64px;
+    width: 336px;
+    height: 64px;
+    background: #40CDA0;
+}
+.btn-text-section1 {
+    position: absolute;
+    width: 134px;
+    height: 13px;
+    top: 25px;
+    left: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+    text-decoration: none;
+}
+.layer {
+    position: absolute;
+    width: 833px;
+    height: 550px;
+    left: 640px;
+    top: 400px;
+    background: url(Layer.png);
+}
