@@ -187,11 +187,46 @@ body {
     height: 1072px;
     left: 537px;
     top: 999px;
-    
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
     font-size: 48px;
     color:#FFFFFF;
-
+}
+.section2-text1 {
+    position: absolute;
+    width: 49px;
+    height: 13px;
+    left: 64px;
+    top: 1700px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 10px;
+    line-height: 13px;
+    color: #40CDA0;
+    
+}
+.section2-title1 {
+    position: absolute;
+    width: 1312px;
+    height: 263px;
+    left: 64px;
+    top: 1712px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 160px;
+    line-height: 95%;
+    color: #FFFFFF;
+}
+.section2-text2 {
+    position: absolute;
+    width: 0px;
+    height: 3441px;
+    left: 489px;
+    top: 32px;
+    
 }
