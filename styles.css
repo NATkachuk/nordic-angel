@@ -224,9 +224,98 @@ body {
 }
 .section2-text2 {
     position: absolute;
-    width: 0px;
-    height: 3441px;
-    left: 489px;
-    top: 32px;
-    
+    width: 898px;
+    height: 180px;
+    left: 271px;
+    top: 2162px;    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.btn-setion2 {
+    position: absolute;
+    top: 2360px;
+    left: 280px;
+    width: 226px;
+    height: 64px;
+    background: #40CDA0;    
+}
+.btn-text-section2 {
+    position: absolute;
+    width: 200px;
+    height: 15px;
+    top: 30px;
+    left: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+    text-decoration: none;
+}
+.btn-img1 {
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    align-items: center;
+    width: 64px;
+    height: 64px;
+    margin-left: 225px;
+    background: #40CDA0;
+}
+.btn1-setion2 {
+    position: absolute;
+    top: 2360px;
+    left: 600px;
+    width: 226px;
+    height: 64px;
+    background: #40CDA0;   
+}
+.btn1-text-section2 {
+    position: absolute;
+    width: 200px;
+    height: 15px;
+    top: 30px;
+    left: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+    text-decoration: none;
+}
+.btn-img2 {
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    align-items: center;
+    width: 64px;
+    height: 64px;
+    margin-left: 225px;
+    background: #40CDA0;
+}
+.Frame11 {
+    position: absolute;
+    width: 1126px;
+    height: 724px;
+    left: 85px;
+    top: 2500px;
+    background: url(Skärmavbild.png), #212226;
+    box-shadow: 0px 3.96629px 50.6904px rgba(0, 0, 0, 0.33);
+    border-radius: 16.8968px;
+}
+.section3-title2 {
+    position: absolute;
+    width: 889px;
+    height: 288px;
+    left: 284px;
+    top: 2550px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 160px;
+    color: #FFFFFF;
 }
