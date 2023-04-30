@@ -312,10 +312,69 @@ body {
     width: 889px;
     height: 288px;
     left: 284px;
-    top: 2550px;
+    top: 3100px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 160px;
+    color: #FFFFFF;
+}
+.Left1 {
+    position: absolute;
+    width: 656px;
+    height: 657px;
+    left:100px;
+    top: 3700px;
+    background: #222528;
+}
+.Right1 {
+position: absolute;
+width: 656px;
+height: 657px;
+left:710px;
+top:3700px;
+
+background: #222528;
+}
+.Frame590 {
+    position: absolute;
+    width: 1312px;
+    height: 657px;
+    left: 100px;
+    top: 4400px;
+    
+    background: #191B1D;
+    border-radius: 16px;
+}
+.Frame587 {
+    position: absolute;
+    width: 1312px;
+    height: 657px;
+    left: 100px;
+    top: 5100px;
+    
+    background: #191B1D;
+    border-radius: 16px;
+}
+.Frame586 {
+    position: absolute;
+    width: 1312px;
+    height: 657px;
+    left: 100px;
+    top: 5800px;
+    
+    background: #191B1D;
+    border-radius: 16px;
+}
+.section4-title3 {
+    position: absolute;
+    width: 310px;
+    height: 152px;
+    left: 59px;
+    top: 6490px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
     color: #FFFFFF;
 }
